@@ -13,6 +13,7 @@
   "main": "index.js",
   "scripts": {},
   "license": "GPL",
+  "author": "Christopher Dengsø <work@cude.io> (https://cude.io)",
   "homepage": "https://github.com/cruelmoney/react-native-activity-recognition#readme",
   "repository": {
     "url": "git+https://github.com/cruelmoney/react-native-activity-recognition.git",
