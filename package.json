@@ -1,6 +1,6 @@
 {
   "name": "rn-motion-activity",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "React Native wrapper for the Activity Recognition API.",
   "private": false,
   "keywords": [
