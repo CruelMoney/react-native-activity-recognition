@@ -1,7 +1,8 @@
 {
-  "name": "react-native-activity-recognition",
+  "name": "rn-motion-activity",
   "version": "4.0.0",
   "description": "React Native wrapper for the Activity Recognition API.",
+  "private": false,
   "keywords": [
     "react-native",
     "android",
@@ -12,13 +13,13 @@
   "main": "index.js",
   "scripts": {},
   "license": "GPL",
-  "homepage": "https://github.com/curelmoney/react-native-activity-recognition#readme",
+  "homepage": "https://github.com/cruelmoney/react-native-activity-recognition#readme",
   "repository": {
-    "url": "git+https://github.com/curelmoney/react-native-activity-recognition.git",
+    "url": "git+https://github.com/cruelmoney/react-native-activity-recognition.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/curelmoney/react-native-activity-recognition/issues"
+    "url": "https://github.com/cruelmoney/react-native-activity-recognition/issues"
   },
   "devDependencies": {
     "react": "^16.9.0",
